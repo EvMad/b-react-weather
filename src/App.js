@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import './App.css';
+export default function App() {
 
-function App() {
   return (
     <div className="App">
       
@@ -9,4 +9,5 @@ function App() {
   );
 }
 
-export default App;
+
+
